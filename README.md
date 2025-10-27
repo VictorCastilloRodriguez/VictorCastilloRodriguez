@@ -5,9 +5,10 @@
 Desarrollador backend y arquitecto técnico especializado en **Java**, **Spring Boot** y flujos reproducibles de APIs. Me gusta documentar procesos técnicos de forma clara para facilitar el trabajo en equipo y el onboarding. También me interesa mejorar la seguridad de los endpoints y automatizar tareas repetitivas.
 
 ## 🛠️ Habilidades
-- **Lenguajes**: Java, SQL  
+- **Lenguajes**: Java, SQL, Java Script  
 - **Frameworks**: Spring Boot  
-- **Herramientas**: Git, GitHub, GitLab, Docker, Postman, Swagger, XAMPP, phpMyAdmin  
+- **Herramientas**: Git, GitHub, GitLab, Postman, Swagger, XAMPP, phpMyAdmin
+- **Conceptos y buenas prácticas**: diseño de APIs REST, seguridad con JWT, DTOs, pruebas y buenas prácticas en Java
 - **Infraestructura**: SSH
 
 ## 🚀 Proyectos
